@@ -13,7 +13,7 @@ export default ({ title, children, pageType = 'home' }: BaseLayoutProps) => {
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>{pageTitle}</title>
-        <meta name="description" content="taka2の個人ブログ - 思考と発見の記録" />
+        <meta name="description" content="taka2の備忘録" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link 
